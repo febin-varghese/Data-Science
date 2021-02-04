@@ -6,4 +6,6 @@ This folder contains jupyter notebooks used during different courses to learn th
 
 ## Beginner Projects
 The 'beginner_projects' folder contains beginner level projects. The projects are:
-1. COVID-19
+1. COVID-19 analysis
+2. Real estate analysis
+3. Iris dataset analysis
